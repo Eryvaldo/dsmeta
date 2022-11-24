@@ -2,7 +2,7 @@ import img from "../../assets/img/notification-image.svg"
 
 import './styles.css'
 
-function notificationButton
+function NotificationButton
     () {
     return (
 
@@ -12,4 +12,4 @@ function notificationButton
     )
 }
 
-export default notificationButton
+export default NotificationButton
